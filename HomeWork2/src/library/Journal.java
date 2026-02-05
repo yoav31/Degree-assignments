@@ -1,5 +1,4 @@
-// Assignment: 2
-// Author: Yoav Haviv Vaknin, ID: 208323261
+
 package library;
 
 public class Journal extends Publication {
@@ -65,3 +64,4 @@ public class Journal extends Publication {
         return this.number+"-Jrnl     "+"qty:"+this.getQty()+" "+this.getTitle();
     }
 }
+
