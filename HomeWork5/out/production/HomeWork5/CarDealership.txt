@@ -1,0 +1,1 @@
+[id= 123456' year= 2018 kind='Toyota' km=100000 price=70000, id= 987546' year= 2020 kind='Toyota' km=50000 price=95000, id= 659874' year= 2022 kind='Kia' km=20000 price=120000, id= 986532' year= 2019 kind='Honda' km=30000 price=65000, id= 487541' year= 2023 kind='Mazda' km=0 price=150000]
