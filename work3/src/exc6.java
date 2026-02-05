@@ -1,5 +1,4 @@
-// Assignment: 6
-// Author: Yoav Vaknin, ID: 208323261
+
 import java.util.Scanner;
 public class exc6 {
     public static void main(String[] args) {
@@ -137,3 +136,4 @@ public class exc6 {
         }
     }
 }
+
