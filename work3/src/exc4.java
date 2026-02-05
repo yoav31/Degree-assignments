@@ -1,6 +1,4 @@
 
-// Assignment: 4
-// Author: Yoav Vaknin, ID: 208323261
 import java.util.Scanner;
 public class exc4 {
     public static void main(String[] args) {
@@ -38,4 +36,5 @@ public class exc4 {
                 System.out.print("the cheak number in ID is: " + i);
         }
     }
+
 }
