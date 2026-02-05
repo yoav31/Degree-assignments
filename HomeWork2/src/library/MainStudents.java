@@ -1,5 +1,4 @@
-// Assignment: 2
-// Author: Yoav Haviv Vaknin, ID: 208323261
+
 package library;
 import java.util.Scanner;
 public class MainStudents extends MainPublication2{
@@ -18,5 +17,6 @@ public class MainStudents extends MainPublication2{
         }
     }
 }
+
 
 
