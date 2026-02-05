@@ -1,5 +1,4 @@
-// Assignment: 2
-// Author: Yoav Haviv Vaknin, ID: 208323261
+
 package library;
 
 public class Student {
@@ -60,3 +59,4 @@ public class Student {
                 " loaned-publications:"+getLoanedNum();
     }
 }
+
