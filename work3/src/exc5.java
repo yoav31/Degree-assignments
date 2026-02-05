@@ -1,5 +1,4 @@
-// Assignment: 5
-// Author: Yoav Vaknin, ID: 208323261
+
 import java.util.Scanner;
 public class exc5 {
     public static void main(String[] args) {
@@ -35,3 +34,4 @@ public class exc5 {
         System.out.println("the number in cell four is: "+arr[3]);
 }
 }
+
