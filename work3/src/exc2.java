@@ -1,5 +1,4 @@
-// Assignment: 2
-// Author: Yoav Vaknin, ID: 208323261
+
 import java.util.Scanner;
 public class exc2 {
     public static void main(String[] args) {
@@ -73,4 +72,5 @@ public class exc2 {
 
         }
         }
+
 }
