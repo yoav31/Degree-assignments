@@ -1,5 +1,4 @@
-// Assignment: 3
-// Author: Yoav Haviv Vaknin, ID: 208323261
+
 package queue;
 
 /**
@@ -78,5 +77,6 @@ public interface Queue {
     boolean isFull();
 
 }
+
 
 
