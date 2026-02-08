@@ -1,5 +1,4 @@
-// Assignment: 3
-// Author: Yoav Haviv Vaknin, ID: 208323261
+
 package school;
 
 public class SchoolSystem {
@@ -35,6 +34,7 @@ public class SchoolSystem {
         }
     }
 }
+
 
 
 
