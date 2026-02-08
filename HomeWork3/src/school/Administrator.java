@@ -1,5 +1,4 @@
-// Assignment: 3
-// Author: Yoav Haviv Vaknin, ID: 208323261
+
 package school;
 
 public abstract class Administrator extends Employee {
@@ -41,4 +40,5 @@ public abstract class Administrator extends Employee {
                 ", salary=" + salary +
                 '}';
     }
+
 }
