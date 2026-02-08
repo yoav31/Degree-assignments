@@ -1,5 +1,4 @@
-// Assignment: 3
-// Author: Yoav Haviv Vaknin, ID: 208323261
+
 package school;
 
 public class Janitor extends SupportStaff{
@@ -55,3 +54,4 @@ public class Janitor extends SupportStaff{
                 '}';
     }
 }
+
