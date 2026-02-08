@@ -1,5 +1,4 @@
-// Assignment: 3
-// Author: Yoav Haviv Vaknin, ID: 208323261
+
 package school;
 
 import java.util.Scanner;
@@ -79,4 +78,5 @@ public class MathTeacher extends Teacher{
                 '}';
     }
 }
+
 
